@@ -28,7 +28,7 @@
   margin-bottom: 10px;
 }
 .row .card.face-down {
-  background-color: #3149FF;
+  background-color: green;
 }
 .row .card.face-down span {
   display: none;

@@ -30,7 +30,7 @@ $(function() {
         $('.face-up').removeClass('face-up').addClass('face-down');
         // reset my array to be empty again
         selections = [];
-      }, 800);
+      }, 1500);
     }
   });
 });
